@@ -12,8 +12,8 @@
     ],
     "restart": "always",
     "path": "openethereum.avado.dnp.dappnode.eth_10.0.6.tar.xz",
-    "hash": "/ipfs/QmTQUUnryso3m5vxjqjsq5rLLGPw1yarGQ34wnPLDJtEoY",
-    "size": 10770156
+    "hash": "/ipfs/QmUwR6TN5Y6pZoqR8exf9hH9m7iRpPvtKUSpgm3ogm3mGU",
+    "size": 10765100
   },
   "name": "openethereum.avado.dnp.dappnode.eth",
   "version": "10.0.6",
@@ -26,5 +26,5 @@
   "autoupdate": true,
   "upstream": "v3.3.0-rc.6",
   "title": "OpenEthereum node (mainnet)",
-  "builddate": "2021-05-15T11:03:36.472Z"
+  "builddate": "2021-08-09T14:58:21.693Z"
 }
