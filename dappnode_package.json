@@ -10,13 +10,12 @@
     "volumes": [
       "data:/data"
     ],
-    "restart": "always",
     "path": "openethereum.avado.dnp.dappnode.eth_10.0.7.tar.xz",
     "hash": "/ipfs/QmccmikfzmJH44ydJVYRgW5ab7uAKQN7rGcoBMKUuXDzyQ",
-    "size": 10790044
+    "restart": "always"
   },
   "name": "openethereum.avado.dnp.dappnode.eth",
-  "version": "10.0.7",
+  "version": "10.0.8",
   "shortDescription": "Ethereum client based on OpenEthereum (formerly Parity)",
   "description": "This is al alternative Ethereum client based on OpenEthereum. On you AVADO you need to run only one ethereum client. The default client is Geth - but if you want an alternative, here it is. Please uninstall Geth or Nethermind clients before adding this one.",
   "type": "service",
@@ -24,7 +23,6 @@
   "license": "GPL-3.0",
   "avatar": "/ipfs/QmZRPp5G8xmGaTw6vtYc73JkUrc72WZjH5sj9heDWVMn6C",
   "autoupdate": true,
-  "upstream": "v3.3.0",
   "title": "OpenEthereum node (mainnet)",
-  "builddate": "2021-11-23T18:55:40.889Z"
+  "upstream": "v3.3.4"
 }
